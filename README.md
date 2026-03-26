@@ -38,7 +38,7 @@ AI-Based-Cargo-Detection/
 ## 🚀 How to Run
 
 ### 1️⃣ Clone the repository
-git clone https://github.com/your-username/AI-Based-Cargo-Detection.git
+git clone https://github.com/atharvasur-hub/AI-Based-Cargo-Detection.git
 
 cd AI-Based-Cargo-Detection
 
